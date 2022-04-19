@@ -1,0 +1,15 @@
+Label,dev_id,Text,Text (Dutch)
+Intro screen,,,
+Your Name,name,What is your name?,Hoe heet je?
+your age,age,Your age?,Hoe oud ben je?
+your email,email,Your email?,Wat is je e-mailadres?
+Gender?,gender,,Wat is je geslacht?
+your location,location,Where are you located?,Waar woon je?
+Continue,start,Start exploring!,Ga op verkenning!
+Privacy things?,privacy,We ask you for your email to avoid double responses to make sure that all responses are individual. The data you provide through participating in this web experience will be collected for research purposes only.,We vragen om je e-mailadres om dubbele antwoorden per individu te vermijden. De gegevens die je verstrekt door deel te nemen aan deze webervaring worden uitsluitend verzameld voor onderzoeksdoeleinden.
+,,,
+,,,
+Start world,,,
+Welcome Screen info,welcome,"The mayor of this neighbourhood wants to implement new smart city ideas. Experience how these ideas might impact the neighbourhood by exploring your surroundings and listening to your neighbours. At the end of your exploration, write a postcard to a loved one to share your experiences. Click on the pink cubes to move around. If you find a person with a question mark on top of their heads... feel free to interact with them.",De burgemeester van deze stad wil graag nieuwe ideeën voor een slimme stad invoeren. Ervaar hoe deze ideeën invloed kunnen hebben op jouw buurt door je omgeving te verkennen en naar je buren te luisteren. Schrijf aan het einde van je verkenning een kaartje naar een geliefde om je ervaringen te delen. Verplaats je door op de roze blokjes te klikken. Voel je vrij om te praten met personen met een vraagteken boven hun hoofd.
+The text in the textbox of the bulletin screen,bulletin_text,What do the scenarios you experienced in Future Frictions make you think about?,Waar doen de scenarios die je in Future Frictions ervaren hebt je aan denken?
+The main text on the end screen,endscreen,"Future Frictions is a collaboration between the University of Twente, Utrecht University, Creative Coding Utrecht and Katpatat for the NWO project Designing for Controversies in Responsible Smart Cities. More info at www.responsiblecities.nl.","Future Frictions is een samenwerking tussen de Universiteit van Twente, Universiteit Utrecht, Creative Coding Utrecht en Katpatat voor het NWO project Designing for Controversies in Responsible Smart Cities. More info at www.responsiblecities.nl."

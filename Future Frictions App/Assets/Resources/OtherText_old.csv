@@ -1,0 +1,14 @@
+Label,dev_id,Text
+Your Name,name,What is your name
+your age,age,Your age?
+your email,email,Your email?
+Gender?,gender,
+your location,location,Where are you located?
+Continue,start,Start exploring!
+Privacy things?,privacy,We ask you for your email to avoid double responses so we make sure that the responses are individual. The data you provide through participating in this web experience will be collected for research purposes only.
+,,
+,,
+,,
+Welcome Screen info,welcome,"The mayor of this neighbourhood wants to implement  new smart city ideas. Experience how these ideas might impact the neighbourhood by exploring your surroundings and listening to your neighbours. At the end of your exploration, write a postcard to a loved one to share your experiences. "
+The text in the textbox of the bulletin screen,bulletin_text,What does Future Frictions make you think of?
+The main text on the end screen,endscreen,"Future Frictions is a collaboration between the University of Twente, Utrecht University, Creative Coding Utrecht and Katpatat for the NWO project Designing for Controversies in Responsible Smart Cities. More info at www.responsiblecities.nl."
